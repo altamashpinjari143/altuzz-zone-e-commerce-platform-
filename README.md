@@ -31,3 +31,4 @@ npm run dev
 1. Code `main` branch pe push karo
 2. Repo Settings > Pages > Source: **GitHub Actions**
 3. Workflow chalte hi site live ho jayegi
+Built by Altamash Pinjari using React and Vite.
